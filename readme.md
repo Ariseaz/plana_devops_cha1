@@ -23,3 +23,7 @@ _If there is no error with the command above_
 
 Step 2: deploy manifest
 ```kubectl apply -f kubernetes.yml```
+
+
+#### Reference Repo (challenge):
+https://github.com/Plan-A-Technologies/DevOps-Challenge-Level-1.git
